@@ -297,6 +297,20 @@ Una comunidad creada por desarrolladores apasionados por la innovación, el cód
 
 ---
 
+# 👨‍💻 Fundador
+
+<div align="center">
+
+<img width="140" src="https://github.com/isairey.png" style="border-radius: 50%;" />
+
+## Isai Reyes — Founder & Full Stack Developer
+
+Desarrollador apasionado por la creación de plataformas modernas, inteligencia artificial y aplicaciones multimedia.
+
+</div>
+
+---
+
 # 🌍 Visión
 
 Construir una comunidad tecnológica moderna enfocada en crear proyectos innovadores relacionados con IA, Web3, cloud computing y software de próxima generación.
